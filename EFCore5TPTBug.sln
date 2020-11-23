@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCore5TPTBug", "EFCore5TPTBug\EFCore5TPTBug.csproj", "{38D1EF50-F504-4FE3-94CB-F8138F292886}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38D1EF50-F504-4FE3-94CB-F8138F292886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D1EF50-F504-4FE3-94CB-F8138F292886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D1EF50-F504-4FE3-94CB-F8138F292886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D1EF50-F504-4FE3-94CB-F8138F292886}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C86F012-4B6F-40DB-BDF1-A17D55AA5E08}
+	EndGlobalSection
+EndGlobal
