@@ -3,6 +3,10 @@ This is a small example of a potential bug(?) in the new EF Core Table-per-Type 
 
 # Getting Started
 
+## Requirements
+* .NET Core SDK 3.1
+* PostgreSQL
+
 ```sh
 # Clone the repository
 git clone https://github.com/keenjus/EFCore5TPTBug
